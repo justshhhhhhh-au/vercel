@@ -29,7 +29,7 @@ test = [
     "attrs~=25.3.0",
     "basedpyright~=1.37.0",
     "mypy~=1.19.0",
-    "pytest~=9.0.2",
+    "pytest~=9.0.3",
     "pytest-cov~=7.0.0",
     "ruff~=0.15.1",
 ]
